@@ -3,6 +3,10 @@
 **Reward your journey. Explore cities. Earn tokens.**  
 A Web3 experience platform powered by smart contracts on Polkadot Asset Hub.
 
+Video demostrations
+- https://youtu.be/4ZAtX-eVl44
+- 
+
 ---
 
 ## ✨ Summary
