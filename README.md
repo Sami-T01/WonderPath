@@ -25,7 +25,7 @@ WonderPath is a Web3 dApp that lets users earn tokens by exploring real-world pl
 
 | Layer        | Stack / Tools                                |
 |--------------|-----------------------------------------------|
-| Frontend     | Vanilla JS, HTML, CSS                         |
+| Frontend     | Next.js                         |
 | Wallet       | [Polkadot.js Extension](https://polkadot.js.org/extension) |
 | Smart Contracts | Ink! (Rust-based) on Polkadot Asset Hub    |
 | Chain API    | [`@polkadot/api`](https://polkadot.js.org/docs/api/) |
