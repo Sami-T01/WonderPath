@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Central Café",
+      "description": "Cozy spot for coffee and snacks.",
+      "location": { "lat": 51.509, "lng": -0.135 },
+      "tags": ["cafe"]
+    },
+    {
+      "name": "Riverside Park",
+      "description": "Nice green space along the Thames.",
+      "location": { "lat": 51.506, "lng": -0.122 },
+      "tags": ["park"]
+    },
+    {
+      "name": "City Museum",
+      "description": "Local history exhibits.",
+      "location": { "lat": 51.510, "lng": -0.128 },
+      "tags": ["museum"]
+    },
+    {
+      "name": "Hidden Gem Tea House",
+      "description": "Surprise me with something new!",
+      "location": { "lat": 51.508, "lng": -0.132 },
+      "tags": ["surprise"]
+    }
+  ]
+  
